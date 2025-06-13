@@ -1,6 +1,5 @@
 Learning EST32 project <br>
 # use [Wokwi](https://wokwi.com/) <br>
-# ESP32 LDE <br>
 ## ESP32 <br>
 ![image](https://github.com/user-attachments/assets/390371cc-ad43-42aa-874a-a0120fec4f3d) <br>
 ![image](https://github.com/user-attachments/assets/7a1cf8c3-d158-4609-926b-1cc1bfcab70a) <br>
